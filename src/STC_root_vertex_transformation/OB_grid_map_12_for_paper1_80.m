@@ -1,6 +1,5 @@
 function [OB_1] = OB_grid_map_12_for_paper1_80
-%OB_FOR_TEST 此处显示有关此函数的摘要
-%   此处显示详细说明
+
 OB_1 = ones(40,40);
 
 for i = (80/5):1:(85/5)
