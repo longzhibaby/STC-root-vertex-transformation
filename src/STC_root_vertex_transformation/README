@@ -1,4 +1,4 @@
 The code can run on Octave 10.2.0/MATLAB2022b.
 
-File 'STC_for_random_environment.m' an instance that generates a fully connected random scenario and uses STC to obtain solution.
+File 'STC_for_random_environment.m' is an example of generating a fully connected random scenario and obtaining a solution using STC.
 File 'STC_b.m' is an example of backend optimization.
